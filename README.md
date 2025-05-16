@@ -1,61 +1,16 @@
-<h1 align="center">Taskist</h1>
+# TODO - A Task Management Flutter App
 
-<h2 align="center">
- Taskist is a ToDo List app for Task Management inspired by the design below
-</h2>
+Add tasks, mark them complete and crush your todos with a clean UI and smooth animations 
 
-<h2 align="center">
- The app is using Firebase, you have to configure it from your side to test the app
-</h2>
+## Features 
 
-<h3 align="center">
- Download it on Android now: <a href="https://play.google.com/store/apps/details?id=com.huextrat.taskist">
-      Taskist on Android
-    </a>
- <br>
- Download it on iOS now: <a href="https://itunes.apple.com/fr/app/taskist/id1435481664">
-      Taskist on iOS
-    </a>
-</h3>
+-  Add, delete and mark tasks as completed
+-  Persistent storage with local database
+-  Minimalistic UI with smooth animations
+-  Fast and responsive performance
 
+## Built With 
 
-<div align="center">
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?longCache=true&style=for-the-badge" alt="License MIT" />
-  </a>
-  <a href="https://github.com/Solido/awesome-flutter">
-     <img src="https://img.shields.io/badge/awesome-%F0%9F%95%B6-purple.svg?longCache=true&style=for-the-badge" alt="Awesome Flutter" />
-  </a>
-  <a href="https://www.dartlang.org/">
-     <img src="https://img.shields.io/badge/Dart-2.0.0-ff69b4.svg?longCache=true&style=for-the-badge" alt="Dart" />
-  </a>
-  <a href="https://flutter.io/">
-     <img src="https://img.shields.io/badge/Flutter-SDK-3BB9FF.svg?longCache=true&style=for-the-badge" alt="Flutter" />
-  </a>
-</div>
-
-
-<div align="center">
-  <h3>
-    <a href="https://hugoextrat.com">
-      www.hugoextrat.com
-    </a>
-  </h3>
-</div>
-
-
-<h2 align="center">
-  <strong>UI Design</strong>
-</h2>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/1wpPvwtUU2yuqYlqmx/giphy.gif"/>
-</div>
-
-<h2 align="center">
-  <strong>Taskist</strong>
-</h2>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/bcKj48rvx7fPIj4ifS/giphy.gif" height="540"/>
-</div>
+[Flutter](https://flutter.dev/) — Cross platform mobile framework 
+[Dart](https://dart.dev/) — Programming language for Flutter 
+[Provider](https://pub.dev/packages/provider) — State management
