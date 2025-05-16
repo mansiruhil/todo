@@ -1,5 +1,5 @@
-name: taskist
-description: Task List App
+name: todo
+description: task management flutter app
 
 version: 1.0.0+6
 
