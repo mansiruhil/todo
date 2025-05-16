@@ -11,8 +11,8 @@ Add tasks, mark them complete and crush your todos with a clean UI and smooth an
 
 ## Built With 
 
-[Flutter](https://flutter.dev/) — Cross platform mobile framework 
+- [Flutter](https://flutter.dev/) : Cross platform mobile framework 
 
-[Dart](https://dart.dev/) — Programming language for Flutter 
+- [Dart](https://dart.dev/) : Programming language for Flutter 
 
-[Provider](https://pub.dev/packages/provider) — State management
+- [Provider](https://pub.dev/packages/provider) : State management
