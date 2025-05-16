@@ -1,6 +1,6 @@
 # TODO - A Task Management Flutter App
 
-Add tasks and mark them complete and crush your todos with a clean UI and smooth animations 
+Add tasks, mark them complete and crush your todos with a clean UI and smooth animations 
 
 ## Features 
 
